@@ -1,3 +1,3 @@
 # enConstruccion
 
-Website estático extramadamente simple para desplegar en servidores y testear el correcto funcionamiento del mismo
+Website estático simple para desplegar y testear nginx
